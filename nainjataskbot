@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nainjataskbot - More Money.com</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f9f9f9;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #222;
+    }
+    p {
+      font-size: 1.2em;
+      color: #555;
+      margin: 20px 0;
+    }
+    a.button {
+      display: inline-block;
+      background-color: #0088cc;
+      color: #fff;
+      padding: 15px 30px;
+      font-size: 1.1em;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 30px;
+      transition: background 0.3s;
+    }
+    a.button:hover {
+      background-color: #006da8;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>Nainjataskbot</h1>
+  <p>More money.com — Earn more, do more, all on Telegram.</p>
+  <a class="button" href="https://t.me/Nainjataskbot?startapp=start" target="_blank">🚀 Launch Now</a>
+
+  <footer>
+    &copy; 2025 Nainjataskbot. Powered by Telegram Mini Apps.
+  </footer>
+</body>
+</html>
